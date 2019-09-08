@@ -1,19 +1,19 @@
-/*
+a/*
   This file must be valid JSON. But comments are allowed
 
   Please edit settings.json, not settings.json.template
 */
 {
   // name your instance!
-  "title": "Northern Explorer",
+  "title": "Libertad Venezolana Explorer",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Northern",
+  "coin": "Libertad-Venezolana",
 
   // coin symbol
-  "symbol": "NORT",
+  "symbol": "LVEN",
 
   // logo
   "logo": "/images/logo.png",
@@ -110,8 +110,8 @@
   "googleplus": "yourgooglepluspage",
 
   //genesis
-  "genesis_tx": "d611ad6808864e0e9bd331f3ffa2298c9e13a54d9fe59a99ccb3a75db374b7c9",
-  "genesis_block": "000001e1a5a4257154c65b46fc732bfa637ba7a898525373ba32ec4aa79921dd",
+  "genesis_tx": "67cd3cc8a2e939b1c86390788a3c764fefa4af674dcbde6f1afd4f65fafd7ae6",
+  "genesis_block": "00000f63a05206a3fcc4547e2a19474149fae5dc0be1628f03f034b9601add36",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
