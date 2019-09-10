@@ -76,7 +76,7 @@
 
   // ensure links on API page are valid
   "api": {
-    "blockindex": 203334,
+    "blockindex": 1,
     "blockhash": "f0c0dfad52fe95185ae188f4da1cb9d9e44a07a33142d724394b3e1c5eddd661",
     "txhash": "5812b594652beb5fbe9182296a7cf889ebb10c8602b9a28ad343a52589c17c0a",
     "address": "LpKQ5XN1vXo9nhN8kQZpaqVC3nG8G168Av"
